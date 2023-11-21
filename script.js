@@ -37,7 +37,7 @@ playButton.addEventListener('click', function() {
 
 /**
  * Creates a new square element, an article with class 'item-square' and returns it to the caller.
- *
+ * 
  * @returns The new created square element.
  */ 
 function getNewSquare() {
